@@ -445,26 +445,6 @@ hisn_almuslim/
 
 ```
 
----
-
-# 📲 Distribution
-
-Official download links will be added here as each distribution channel becomes available.
-
-### Android
-
-- **Google Play:** Coming soon
-- **App Store:** Coming soon
-- **Uptodown:** Coming soon
-
-
----
-
-
-<p align="center">
-  <img src="media/logo/app-logo.png" width="72" alt="Muddakir">
-</p>
-
 <p align="center">
   <strong>Hisn Al-Muslim</strong><br>
   Quran • Prayer • Adhkar • Islamic Learning • Audio • Reminders
