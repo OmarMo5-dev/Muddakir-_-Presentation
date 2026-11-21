@@ -19,7 +19,7 @@
 
 <p align="center">
   <a href="https://www.mediafire.com/file/aj9cvdvqewrlwny/Hisn-Al-Muslim.apk/file">
-    <strong>📲 Download Hisn Al-Muslim APK</strong>
+    <strong>📲 Download Muddakir APK</strong>
   </a>
 </p>
 
@@ -462,7 +462,7 @@ Official download links will be added here as each distribution channel becomes 
 
 
 <p align="center">
-  <img src="media/logo/app-logo.png" width="72" alt="Hisn Al-Muslim">
+  <img src="media/logo/app-logo.png" width="72" alt="Muddakir">
 </p>
 
 <p align="center">
