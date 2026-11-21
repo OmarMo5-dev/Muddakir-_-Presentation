@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="media/logo/app-logo.png" width="138" alt="Hisn Al-Muslim logo">
+  <img src="media/logo/app-logo.png" width="138" alt="Muddakir logo">
 </p>
 
 <h1 align="center" style="border-bottom: none;">
