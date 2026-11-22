@@ -207,30 +207,6 @@ The source project includes collections such as **Sahih Al-Bukhari, Sahih Muslim
 
 ---
 
-# 📚 Islamic Lectures & Educational Content
-
-The application provides an educational content experience for Islamic lectures, lessons, videos, channels, and playlists.
-
-### ☀️ Light Theme & 🌙 Dark Theme
-
-<p align="center">
-  <img src="media/screenshots/lectures-light.png" width="100%" alt="Islamic lectures - Light Theme">
-  <img src="media/screenshots/lectures-dark.png" width="100%" alt="Islamic lectures - Dark Theme">
-</p>
-
-The screens demonstrate:
-
-- Featured and selected content
-- Islamic lectures
-- Video cards
-- Educational categories
-- Islamic channels
-- Playlist-oriented discovery
-- YouTube-based video playback
-- Content progress and continuation
-
----
-
 # 🕋 Qibla
 
 The Qibla section provides a dedicated visual experience for discovering the direction of the Kaaba.
