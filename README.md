@@ -27,7 +27,7 @@
 
 ## 📱 About the Project
 
-**Hisn Al-Muslim** is a modern Islamic mobile application designed to bring everyday Islamic tools, Quran content, remembrance, prayer information, audio experiences, and educational material together in one calm and accessible experience.
+**Muddakir** is a modern Islamic mobile application designed to bring everyday Islamic tools, Quran content, remembrance, prayer information, audio experiences, and educational material together in one calm and accessible experience.
 
 The application combines Quran reading and audio, prayer-time information, Adhkar, Hadith, Islamic educational content, Qibla guidance, Tasbeeh, reminders, Stories of the Prophets, and additional Islamic resources.
 
@@ -377,8 +377,7 @@ hisn_almuslim/
 │   │   ├── home/
 │   │   ├── islamic_quiz/
 │   │   ├── jami_dua/
-│   │   ├── lectures/
-│   │   ├── qibla/
+│   │   │── qibla/
 │   │   ├── quran/
 │   │   ├── quran_audio/
 │   │   ├── radio/
