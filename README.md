@@ -407,6 +407,6 @@ hisn_almuslim/
 ```
 
 <p align="center">
-  <strong>Hisn Al-Muslim</strong><br>
-  Quran • Prayer • Adhkar • Islamic Learning • Audio • Reminders
+  <strong>Muddakir</strong><br>
+  Quran • Prayer • Adhkar • Islamic Content • Audio • Reminders
 </p>
