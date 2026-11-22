@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center" style="border-bottom: none;">
- Muddakir
+ Muddakir | مُدَّكر
 </h1>
 
 <p align="center">
@@ -407,6 +407,6 @@ hisn_almuslim/
 ```
 
 <p align="center">
-  <strong>Muddakir</strong><br>
+  <strong>Muddakir | مُدَّكر</strong><br>
   Quran • Prayer • Adhkar • Islamic Content • Audio • Reminders
 </p>
