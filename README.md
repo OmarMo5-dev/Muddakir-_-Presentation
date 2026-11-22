@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-  Quran • Prayer • Adhkar • Islamic Learning • Audio • Reminders
+  Quran • Prayer • Adhkar • Islamic Content • Audio • Reminders
 </p>
 
 ---
@@ -21,20 +21,6 @@
   <a href="https://www.mediafire.com/file/aj9cvdvqewrlwny/Hisn-Al-Muslim.apk/file">
     <strong>📲 Download Muddakir APK</strong>
   </a>
-</p>
-
----
-
-
-## 📱 App Preview
-
-<p align="center">
-  <img src="media/screenshots/app-preview-3.png" width="100%" alt="Hisn Al-Muslim app preview 3">
-  <img src="media/screenshots/app-preview-2.png" width="100%" alt="Hisn Al-Muslim app preview 2">
-</p>
-
-<p align="center">
-  <em>A visual overview of the Hisn Al-Muslim experience.</em>
 </p>
 
 ---
